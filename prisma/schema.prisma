@@ -14,10 +14,10 @@ datasource db {
 }
 
 model Game {
-  id          Int      @id @default(autoincrement())
-  title       String   @db.VarChar(150)
-  developer   String   @db.VarChar(150)
-  distributor String   @db.VarChar(150)
-  genre       String   @db.VarChar(100)
-  released    DateTime
+  id          Int    @id @default(autoincrement())
+  title       String @db.VarChar(150)
+  developer   String @db.VarChar(150)
+  distributor String @db.VarChar(150)
+  genre       String @db.VarChar(100)
+  released    String @db.VarChar(12)
 }
