@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Galaga",
+    "developer": "Namco",
+    "distributor": "Namco",
+    "genre": "Fixed Shooter",
+    "released": "1981-09-25"
+  },
+  {
+    "title": "Street FIghter II",
+    "developer": "Capcom",
+    "distributor": "Capcom",
+    "genre": "Fighting",
+    "released": "1991-02-06"
+  },
+  {
+    "title": "Mortal Kombat",
+    "developer": "Midway",
+    "distributor": "Midway",
+    "genre": "Fighting",
+    "released": "1992-10-08"
+  },
+  {
+    "title": "Frogger",
+    "developer": "Konami",
+    "distributor": "Sega/Gremlin",
+    "genre": "Action",
+    "released": "1981-06-05"
+  },
+  {
+    "title": "Dig Dug",
+    "developer": "Namco",
+    "distributor": "Namco",
+    "genre": "Maze",
+    "released": "1982-04-19"
+  },
+  {
+    "title": "Space Invaders",
+    "developer": "Taito",
+    "distributor": "Taito",
+    "genre": "Fixed Shooter",
+    "released": "1978-06-16"
+  },
+  {
+    "title": "Asteroids",
+    "developer": "Atari,Inc",
+    "distributor": "Atari,Inc",
+    "genre": "Multidirectional shooter",
+    "released": "1979-11-13"
+  },
+  {
+    "title": "Pong",
+    "developer": "Atari,Inc",
+    "distributor": "Atari,Inc",
+    "genre": "Sports",
+    "released": "1972-11-29"
+  },
+  {
+    "title": "Q*bert",
+    "developer": "Gottlieb",
+    "distributor": "Gottlieb",
+    "genre": "Puzzle",
+    "released": "1982-10-18"
+  },
+  {
+    "title": "Breakout",
+    "developer": "Atari,Inc",
+    "distributor": "Atari,Inc",
+    "genre": "Action",
+    "released": "1976-05-13"
+  }
+]
